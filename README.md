@@ -18,3 +18,6 @@ You may also see any lint errors in the console.
 feel free to click the star on the top of the repo 
 
 thnx <3 
+
+### sceenShot 
+![screenshot](./screenshot.png)
